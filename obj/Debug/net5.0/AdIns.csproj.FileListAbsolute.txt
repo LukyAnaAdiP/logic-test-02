@@ -1,0 +1,16 @@
+C:\Users\Thinkpad\Documents\Enigma\3Test Placement\AdIns\bin\Debug\net5.0\AdIns.exe
+C:\Users\Thinkpad\Documents\Enigma\3Test Placement\AdIns\bin\Debug\net5.0\AdIns.deps.json
+C:\Users\Thinkpad\Documents\Enigma\3Test Placement\AdIns\bin\Debug\net5.0\AdIns.runtimeconfig.json
+C:\Users\Thinkpad\Documents\Enigma\3Test Placement\AdIns\bin\Debug\net5.0\AdIns.runtimeconfig.dev.json
+C:\Users\Thinkpad\Documents\Enigma\3Test Placement\AdIns\bin\Debug\net5.0\AdIns.dll
+C:\Users\Thinkpad\Documents\Enigma\3Test Placement\AdIns\bin\Debug\net5.0\ref\AdIns.dll
+C:\Users\Thinkpad\Documents\Enigma\3Test Placement\AdIns\bin\Debug\net5.0\AdIns.pdb
+C:\Users\Thinkpad\Documents\Enigma\3Test Placement\AdIns\obj\Debug\net5.0\AdIns.csproj.AssemblyReference.cache
+C:\Users\Thinkpad\Documents\Enigma\3Test Placement\AdIns\obj\Debug\net5.0\AdIns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad\Documents\Enigma\3Test Placement\AdIns\obj\Debug\net5.0\AdIns.AssemblyInfoInputs.cache
+C:\Users\Thinkpad\Documents\Enigma\3Test Placement\AdIns\obj\Debug\net5.0\AdIns.AssemblyInfo.cs
+C:\Users\Thinkpad\Documents\Enigma\3Test Placement\AdIns\obj\Debug\net5.0\AdIns.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\Documents\Enigma\3Test Placement\AdIns\obj\Debug\net5.0\AdIns.dll
+C:\Users\Thinkpad\Documents\Enigma\3Test Placement\AdIns\obj\Debug\net5.0\ref\AdIns.dll
+C:\Users\Thinkpad\Documents\Enigma\3Test Placement\AdIns\obj\Debug\net5.0\AdIns.pdb
+C:\Users\Thinkpad\Documents\Enigma\3Test Placement\AdIns\obj\Debug\net5.0\AdIns.genruntimeconfig.cache
